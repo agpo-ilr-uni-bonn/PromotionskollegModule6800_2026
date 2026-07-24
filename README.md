@@ -27,27 +27,27 @@ We are planning to do the pitches Wednesday/Thursday after the Q&A session, as w
 
 ### Links to Intro material
 
-<!-- - [Intro slides](https://docs.google.com/presentation/d/1AAfeRO44KurldhYrKkcN3pUOgVP19ORHRtMfPe6-kkE/edit?usp=sharing)
-- [Intro jupyter notebook](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/labIntro.ipynb) -->
+- [Intro slides](https://docs.google.com/presentation/d/1e_3q_ck1A13qp9PevGKQ0OW6fJWa-AOsVCIaGGDhNfs/edit?usp=sharing)
+<!-- - [Intro jupyter notebook](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/labIntro.ipynb) -->
 
 ### Links to Day 1 material 
 
-<!-- - [Day 1 slides](https://docs.google.com/presentation/d/1LmREp55phxkmmPoyn9eLi4SU4r0oionvnG9Qux62O5w/edit?usp=sharing)
+<!-- - [Day 1 slides](https://docs.google.com/presentation/d/1670B2vdeYMbEuXKGETYSWf1M69kZY8bILU_ufCqpsl8/edit?usp=sharing)
 - [Day 1 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/6800_Day1.ipynb) -->
 
 
 ### Links to Day 2 material 
-<!-- - [Day 2 slides - Trees and ML interpretation](https://docs.google.com/presentation/d/1mQfIKw-dDVJ3Bts7cque9fPouOL-Ecog921HsTMGteA/edit?usp=sharing)
+<!-- - [Day 2 slides - Trees and ML interpretation](https://docs.google.com/presentation/d/1ae6eKAY_lHlgc3BFSLs0trTUv85uIcl9_mHHsymuZOA/edit?usp=sharing)
 - [Day 2 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/6800_Day2.ipynb) -->
 
 
 ### Links to Day 3 material 
-<!-- - [Day 3 slides - Neural Networks](https://docs.google.com/presentation/d/1WqdZSeG5lDeY_E4yFJ_KxrWQMmzvRZj_YXZWlf5y8iw/edit?usp=sharing)
+<!-- - [Day 3 slides - Neural Networks](https://docs.google.com/presentation/d/1UyiSKX_26upEooy2Kbov0HglqIKws7-QK46KJCtYccU/edit?usp=sharing)
 - [Day 3 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/6800_Day3.ipynb) -->
 
 
 ### Links to Day 4-5 material 
-<!-- - [Day 4-5 slides - ML and causal analysis](https://docs.google.com/presentation/d/1GA3VP-r-6dnZdrAVwkV_FpWlCpbjf2SI4j9VCJoNVE0/edit?usp=sharing)
+<!-- - [Day 4-5 slides - ML and causal analysis](https://docs.google.com/presentation/d/1mXG6hjsVy81cFfVpujNqIY4zPk8D-59nu0AxrZgE2Yw/edit?usp=sharing)
 - [Day 4-5 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/6800_Day4_5.ipynb) -->
 
 <!--
