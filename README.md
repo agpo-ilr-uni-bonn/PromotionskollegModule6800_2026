@@ -12,7 +12,7 @@ Hugo Storm - University of Bonn, Germany
 
 
 ### Course schedule
-<!-- [Schedule](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/ML_6800_schedule_2025.pdf) -->
+[Schedule](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2026/blob/master/ML_6800_schedule_2026.pdf)
 
 
 ### Research pitch 
@@ -28,7 +28,7 @@ We are planning to do the pitches Wednesday/Thursday after the Q&A session, as w
 ### Links to Intro material
 
 - [Intro slides](https://docs.google.com/presentation/d/1e_3q_ck1A13qp9PevGKQ0OW6fJWa-AOsVCIaGGDhNfs/edit?usp=sharing)
-<!-- - [Intro jupyter notebook](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/labIntro.ipynb) -->
+- [Intro jupyter notebook](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2026/blob/master/labIntro.ipynb)
 
 ### Links to Day 1 material 
 
